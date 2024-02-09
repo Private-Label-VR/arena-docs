@@ -1,4 +1,7 @@
 site_name: Private Label VR Arena
+site_description: Private Label VR Arena Documentation
+site_author: Private Label VR
+site_url: https://private-label-vr.github.io/arena-docs/
 theme:
   logo: assets/logo.svg
   name: material
