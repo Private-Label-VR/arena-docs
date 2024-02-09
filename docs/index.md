@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Arena Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the PLVR Arena Documentation Portal. Here you can find information regarding how to setup, configure, and interface to the VR Arena.
 
-## Commands
+## Available Documentation
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The documentation available will continue to evolve. For right now we have the following sections:
 
-## Project layout
+- [Setup](./setup.md): Learn how to set up your Virtual Reality Arena upon arrival.
+- [Operation](./operation.md): Discover how to operate the arena effectively on a day-to-day basis.
+- [Developer](./developer.md): If you are a developer and want to customize even further.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Getting Started
+
+If you're new to Private Label VR or just need a refresher, start with the [Arena Setup](./arena-setup.md) guide. This will walk you through the initial steps of getting your arena up and running.
+
+## Need Help?
+
+If you encounter any issues or have questions that aren't addressed in the documentation, feel free to reach out to our support team at [support@privatelabelvr.com](mailto:support@privatelabelvr.com).
+
+Happy VR gaming!

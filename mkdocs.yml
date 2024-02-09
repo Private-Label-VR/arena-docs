@@ -1,5 +1,6 @@
 site_name: Private Label VR Arena
 theme:
+  logo: assets/logo.svg
   name: material
   features:
     - navigation.tabs
@@ -13,18 +14,26 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: cyan
       accent: light-blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
       primary: cyan
       accent: light-blue
+
+nav:
+  - Home: index.md
+  - Setup: setup.md
+  - Operation: operation.md
+  - Developer: developer.md
 
 markdown_extensions:
   - pymdownx.highlight:
